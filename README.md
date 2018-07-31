@@ -2,7 +2,11 @@
 
 OculusGoのコントローラーをUnity上でエミュレートする拡張機能
 
-## Instalation
+## Demo
+
+![demo](https://github.com/nkjzm/OVREmulator/blob/master/Document/emulator.gif)
+
+## Installation
 
 以下のライブラリをインポートしてください。
 
