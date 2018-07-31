@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/OVRInputEmulator/Test.unity
+    guid: 9742caa4e345a42c09d4111ec896c18d
+  m_configObjects: {}
